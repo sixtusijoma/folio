@@ -1,0 +1,12 @@
+{
+  "folio": 1,
+  "kind": "audio",
+  "title": "A Lamp in the Window",
+  "author": "Folio demo",
+  "description": "A short original sample so the shelf is not empty. The recording was made for this demo.",
+  "dateLabel": "Sample",
+  "publishedAt": "2026-01-15T15:00:00.000Z",
+  "audio": "audio.mp3",
+  "captions": "captions.vtt",
+  "script": "script.txt"
+}

@@ -1,0 +1,137 @@
+{
+  "slug": "art-of-war",
+  "title": "The Art of War",
+  "author": "Sun Tzu",
+  "translator": "Lionel Giles",
+  "year": "5th century BC",
+  "interest": "Public-domain edition of the Lionel Giles translation.",
+  "swap": false,
+  "textSource": "Standard Ebooks",
+  "textUrl": "https://standardebooks.org/ebooks/sun-tzu/the-art-of-war/lionel-giles",
+  "audioSource": "LibriVox",
+  "archiveId": "artofwar3_pc_librivox",
+  "archiveUrl": "https://archive.org/details/artofwar3_pc_librivox",
+  "license": "Public domain in the United States. LibriVox readings are dedicated to the public domain.",
+  "chapters": [
+    {
+      "title": "01 - LAYING PLANS",
+      "url": "https://archive.org/download/artofwar3_pc_librivox/artofwar_01_tzu_64kb.mp3",
+      "bytes": 2603008,
+      "file": "audio-00.mp3",
+      "cues": "audio-00.cues.json",
+      "textChapter": 8,
+      "leadInMs": 2723,
+      "tailMs": 9333,
+      "sentenceStart": 1,
+      "sentenceEnd": 40
+    },
+    {
+      "title": "02 - WAGING WAR",
+      "url": "https://archive.org/download/artofwar3_pc_librivox/artofwar_02_tzu_64kb.mp3",
+      "bytes": 2151936,
+      "textChapter": 9,
+      "leadInMs": 2283,
+      "sentenceStart": 1,
+      "sentenceEnd": 26
+    },
+    {
+      "title": "03 - ATTACK BY STRATAGEM",
+      "url": "https://archive.org/download/artofwar3_pc_librivox/artofwar_03_tzu_64kb.mp3",
+      "bytes": 2430976,
+      "textChapter": 10,
+      "leadInMs": 9350,
+      "sentenceStart": 1,
+      "sentenceEnd": 33
+    },
+    {
+      "title": "04 - TACTICAL DISPOSITIONS",
+      "url": "https://archive.org/download/artofwar3_pc_librivox/artofwar_04_tzu_64kb.mp3",
+      "bytes": 1906176,
+      "textChapter": 11,
+      "leadInMs": 1962,
+      "sentenceStart": 1,
+      "sentenceEnd": 22
+    },
+    {
+      "title": "05 - ENERGY",
+      "url": "https://archive.org/download/artofwar3_pc_librivox/artofwar_05_tzu_64kb.mp3",
+      "bytes": 2406400,
+      "textChapter": 12,
+      "leadInMs": 4625,
+      "sentenceStart": 2,
+      "sentenceEnd": 29
+    },
+    {
+      "title": "06 - WEAK POINTS AND STRONG",
+      "url": "https://archive.org/download/artofwar3_pc_librivox/artofwar_06_tzu_64kb.mp3",
+      "bytes": 3587584,
+      "textChapter": 13,
+      "leadInMs": 1702,
+      "sentenceStart": 1,
+      "sentenceEnd": 42
+    },
+    {
+      "title": "07 - MANEUVERING",
+      "url": "https://archive.org/download/artofwar3_pc_librivox/artofwar_07_tzu_64kb.mp3",
+      "bytes": 3146240,
+      "textChapter": 14,
+      "leadInMs": 481,
+      "sentenceStart": 1,
+      "sentenceEnd": 40
+    },
+    {
+      "title": "08 - VARIATION IN TACTICS",
+      "url": "https://archive.org/download/artofwar3_pc_librivox/artofwar_08_tzu_64kb.mp3",
+      "bytes": 1659392,
+      "textChapter": 15,
+      "leadInMs": 2042,
+      "sentenceStart": 1,
+      "sentenceEnd": 22
+    },
+    {
+      "title": "09 - THE ARMY ON THE MARCH",
+      "url": "https://archive.org/download/artofwar3_pc_librivox/artofwar_09_tzu_64kb.mp3",
+      "bytes": 4003840,
+      "textChapter": 16,
+      "leadInMs": 1061,
+      "sentenceStart": 1,
+      "sentenceEnd": 51
+    },
+    {
+      "title": "10 - TERRAIN",
+      "url": "https://archive.org/download/artofwar3_pc_librivox/artofwar_10_tzu_64kb.mp3",
+      "bytes": 3410944,
+      "textChapter": 17,
+      "leadInMs": 1301,
+      "sentenceStart": 1,
+      "sentenceEnd": 36
+    },
+    {
+      "title": "11 - THE NINE SITUATIONS",
+      "url": "https://archive.org/download/artofwar3_pc_librivox/artofwar_11_tzu_64kb.mp3",
+      "bytes": 6326272,
+      "textChapter": 18,
+      "leadInMs": 501,
+      "sentenceStart": 1,
+      "sentenceEnd": 83
+    },
+    {
+      "title": "12 - THE ATTACK BY FIRE",
+      "url": "https://archive.org/download/artofwar3_pc_librivox/artofwar_12_tzu_64kb.mp3",
+      "bytes": 1882112,
+      "textChapter": 19,
+      "leadInMs": 761,
+      "sentenceStart": 1,
+      "sentenceEnd": 26
+    },
+    {
+      "title": "13 - THE USE OF SPIES",
+      "url": "https://archive.org/download/artofwar3_pc_librivox/artofwar_13_tzu_64kb.mp3",
+      "bytes": 2787840,
+      "textChapter": 20,
+      "leadInMs": 661,
+      "sentenceStart": 1,
+      "sentenceEnd": 33
+    }
+  ]
+}
