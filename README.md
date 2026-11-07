@@ -6,7 +6,7 @@ One library on the device, no account. Text and audio can be read and listened t
 
 ## Why I made this
 
-I wanted a Kindle-like interface to read and listen to long X posts, articles, long AI chat responses, and books — using the top free AI voice models.
+I wanted a Kindle-like interface to read and listen to long X posts, articles, long AI chat responses, and books, using the top free AI voice models.
 
 <p>
   <img src="docs/screenshots/shelf.png" width="280" alt="Folio shelf on a phone, with The Time Machine, The Art of War, and A Lamp in the Window" />
@@ -115,9 +115,9 @@ npm run test:ui
 
 Settings offers three.
 
-1. **System** — `expo-speech`. Default, offline. On iOS, Enhanced or Premium voices downloaded in Settings → Accessibility → Spoken Content → Voices show up in the list. The web preview uses the browser voice.
-2. **Kokoro** — [Kokoro 82M](https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX) at `q8`, inside a hidden WebView. The model downloads on first use and stays cached. Clips are cached per item as 16-bit WAV. Native `sherpa-onnx` does not load in Expo Go, so Folio does not use it.
-3. **Gemini** — a key you paste from [Google AI Studio](https://aistudio.google.com/apikey). The read-aloud default model is `gemini-3.8-flash-lite-tts`. A free-tier 429 backs off and retries, then Folio falls through to Kokoro and the system voice. Finished sentences are cached on the device.
+1. **System**, `expo-speech`. Default, offline. On iOS, Enhanced or Premium voices downloaded in Settings → Accessibility → Spoken Content → Voices show up in the list. The web preview uses the browser voice.
+2. **Kokoro**, [Kokoro 82M](https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX) at `q8`, inside a hidden WebView. The model downloads on first use and stays cached. Clips are cached per item as 16-bit WAV. Native `sherpa-onnx` does not load in Expo Go, so Folio does not use it.
+3. **Gemini**, a key you paste from [Google AI Studio](https://aistudio.google.com/apikey). The read-aloud default model is `gemini-3.8-flash-lite-tts`. A free-tier 429 backs off and retries, then Folio falls through to Kokoro and the system voice. Finished sentences are cached on the device.
 
 ## Audio bundle format
 
