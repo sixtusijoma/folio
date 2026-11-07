@@ -4,6 +4,10 @@ A reader for books, audiobooks, saved articles, and short audio. Mostly AI-gener
 
 One library on the device, no account. Text and audio can be read and listened to, including together. The first launch opens a small demo shelf: two public-domain books (an EPUB plus the opening LibriVox chapter) and one short original sample with a recording made for this demo.
 
+## Why I made this
+
+I wanted a Kindle-like interface to read and listen to long X posts, articles, long AI chat responses, and books — using the top free AI voice models.
+
 <p>
   <img src="docs/screenshots/shelf.png" width="280" alt="Folio shelf on a phone, with The Time Machine, The Art of War, and A Lamp in the Window" />
   <img src="docs/screenshots/reader.png" width="280" alt="The Time Machine open in the reader, sepia type, chapter one" />
